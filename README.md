@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tori.
 - 👀 I’m interested in trying new stuff here.
-- 🌱 I’m currently learning math and computer science stuff! Anything with math models and applications to human biology is also cool!
+- 🌱 I got my bachelor's in Math and Scientific Computation! Anything with math models and applications to human biology is also cool!
 - 💞️ I’m looking to collaborate on machine learning and other cool projects.
 - 📫 You can shoot me an email @ vtomlin315@gmail.com
 
